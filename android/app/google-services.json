@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "206823136889",
+    "project_id": "mealmagikapp",
+    "storage_bucket": "mealmagikapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:206823136889:android:f2b06a0234f5790abafea8",
+        "android_client_info": {
+          "package_name": "com.fooddelivery.meal_magik"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBw9tqfLyOLjU1Y72-KcPmC0y9I4uQeiiA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
