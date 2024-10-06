@@ -1,0 +1,50 @@
+name: meal_magik
+description: "A new Flutter project."
+
+publish_to: 'none' 
+
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.5.3
+
+dependencies:
+  cupertino_icons: ^1.0.8
+  provider: ^6.1.2
+  collection: ^1.18.0
+  intl: ^0.19.0
+  flutter_credit_card: ^3.0.1
+
+
+  flutter:
+    sdk: flutter
+  firebase_core: ^3.6.0
+  firebase_auth: ^5.3.1
+  cloud_firestore: ^5.4.3
+  url_launcher: ^6.3.0
+  get: ^4.6.6
+
+
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^4.0.0
+
+
+flutter:
+
+
+  uses-material-design: true
+
+  assets:
+    - lib/images/burger/
+    - lib/images/ice/
+    - lib/images/lunch/
+    - lib/images/sandwich/
+    - lib/images/sweets/
+    - assets/img/
+ 
